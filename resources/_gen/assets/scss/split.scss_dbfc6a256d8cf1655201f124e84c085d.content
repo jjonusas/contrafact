@@ -2323,8 +2323,8 @@ a {
   .rightcontent {
     padding: 30px; }
   .image {
-    height: 240px;
-    max-height: 30vh; }
+    height: 320px;
+    max-height: 50vh; }
   .logo {
     margin-bottom: 30px; } }
 
